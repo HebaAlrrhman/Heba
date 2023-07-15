@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **heba.alrrhman@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iMqxzzdPUraJCLPDJeRJmp7rJQ88dr6X/view?usp=sharing](https://drive.google.com/file/d/1iMqxzzdPUraJCLPDJeRJmp7rJQ88dr6X/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1oGq7V4ZWrVH12IKTGg_Dbzxx-c7zB6FU/view?usp=sharing
 
 
 <h3 align="left">Languages and Tools:</h3>
