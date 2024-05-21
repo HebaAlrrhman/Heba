@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Heba Alrhman</h1>
+<h1 align="center">Hi 👋, I'm Heba Alrhman Khaled</h1>
 <h3 align="center">A passionate full stack Web and Mobile developer from Jordan</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
